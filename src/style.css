@@ -1,0 +1,10 @@
+body{
+    font-family: 'Almarai', sans-serif;
+    background-color: black;
+}
+.movie{
+  width:400px;
+  text-align: center;
+  font-weight: 20px;
+
+}
